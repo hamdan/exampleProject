@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F78FCC08-2561-4DAD-9322-DB0F7000DCB7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>exampleProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37D7A9C4-6099-443F-BAEF-4ADC8FED38D4</key>
+		<string>https://github.com/hamdan/exampleProject.git/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>exampleProject/exampleProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37D7A9C4-6099-443F-BAEF-4ADC8FED38D4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>37D7A9C4-6099-443F-BAEF-4ADC8FED38D4</key>
+		<string>https://github.com/hamdan/exampleProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hamdan/exampleProject.git/trunk/exampleProject/exampleProject.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37D7A9C4-6099-443F-BAEF-4ADC8FED38D4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37D7A9C4-6099-443F-BAEF-4ADC8FED38D4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>exampleProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
