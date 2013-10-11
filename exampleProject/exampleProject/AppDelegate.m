@@ -12,7 +12,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    //cool
+    //cool ok
     // Override point for customization after application launch.
     return YES;
 }
